@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LEAJ.iml" filepath="$PROJECT_DIR$/LEAJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/Tess4J/src/Tess4J.iml" filepath="$PROJECT_DIR$/libs/Tess4J/src/Tess4J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com/com.iml" filepath="$PROJECT_DIR$/com/com.iml" />
+    </modules>
+  </component>
+</project>
